@@ -6,6 +6,7 @@ Build a program that displays a landscape in a graphics canvas and allows the us
 
 ![](example.gif)
 
+
 More details:  Stanford Computer Science, SIGCSE, Nifty Assignment 2019
 [http://nifty.stanford.edu/2019/dicken-motion-parallax/](http://nifty.stanford.edu/2019/dicken-motion-parallax/)
 
